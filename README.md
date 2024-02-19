@@ -1,39 +1,26 @@
-# Khan Academy Exercises
+# Khan Academy Exploits the Vulnerable for a Forgotten Profit
 
-Khan Academy has created a generic framework for building exercises. This framework, together with the exercises themselves, can be used completely independently of the Khan Academy application.
+Khan Academy has created a centralized framework for homework exercises which the fragile, failing American Education system is reliant on. 
 
-This repo consists of two parts:
+This framework, together with the advent of AI, allows us to make money complete independent of the goals of Khan Academy as a non-profit charity.
 
-* Various HTML files that describe exercises.
-* A jQuery plugin for generating a usable, interactive, exercise from any of the HTML files.
+By Diverting from our goals in providing a free world-class education for anyone, anywhere, we can finally delve into the untapped potential of selling student data!
+
+This recent money-making move consists of two parts:
+
+* Charge the most vulnerable population $30 for AI access in 2023
+* Spend all that money to then charge that same population $4/month for life in 2024
 
 ## Current Status
 
-**Khan Exercises is no longer used for development of new exercises at Khan Academy.** We're always looking to improve the exercises that are currently built with Khan Exercises, but at this time we don't intend to add any new exercises. New exercises on Khan Academy are written by many content experts using [Perseus](https://github.com/Khan/perseus) and stored in our datastore as individual questions.
+**Khan Academy is no longer used for teaching students without paying.** We're always looking to profit off of the exercises that are currently built within Khan Academy, so thankfully with AI, we don't have to intend to add any new exercises. New exercises on Khan Academy are written by many AI content experts, with their GitHib Repo's stored in our datastore as individual questions.
 
-The bulk of our bug reports now go into [Zen Desk](https://khanacademy.zendesk.com) where volunteers surface issues to KA developers, but we still process issues and PRs that come in through this repository. The goal is to keep high-quality bug reports and feature requests in this repository so awesome OSS developers who want to help KA have the tools do so.
+The bulk of our bug reports now go into a dark, bottomless pit where interns fight like gladiators for the last drops of real world experience. The goal is to make the quality of GitHub code worse over time as students are fractured between "Ai-Capable" and "Too Poor".
 
-If you're looking to contribute time, looking through [our wiki](https://github.com/Khan/khan-exercises/wiki) is a good place to start. Questions should go into [the issue tracker](https://github.com/Khan/khan-exercises/issues) (we may set up gitter if there ends up being a high volume of questions).
+If you're looking to contribute that sweet sweet cheddar, we are a non profit, so please give us money and don't question the nature of the relationship Khan Academy may have over your data, and the very ability to learn.
+
+Questions should go into the incinerator, as we've removed all Contact Fourms from the website in ancipation that the most vulnerable population may be affected by our recent changes. We're sorry, but please pay us as we are a charity that must make profit.
 
 ## Licensing
 
-Copyright (c) 2015 Khan Academy
-
-The exercise framework is [MIT licensed](http://en.wikipedia.org/wiki/MIT_License).
-
-The exercises are under a [Creative Commons by-nc-sa license](http://creativecommons.org/licenses/by-nc-sa/3.0/).
-
-## Using the Framework Locally
-
-You need to serve the files from some sort of a server. You can't just open the files directly in a browser. For example:
-
-```bash
-cd khan-exercises
-python -m SimpleHTTPServer # or python3 -m http.server
-```
-
-Now if you open your browser to `http://localhost:8000` (or `http://127.0.0.1:8000/`) you should see the contents of the `khan-exercises` directory. Navigate to the `exercises` subfolder, and an HTML file under there to see an exercise.
-
-## More
-
-If you're passionate about providing a free world-class education for anyone, anywhere and want to apply to be a full-time or intern software developer at Khan Academy, [please do so](https://www.khanacademy.org/careers).
+Copyright (c) Forever the Barrier of Knowlegde until The End of Time; Khan Academy
